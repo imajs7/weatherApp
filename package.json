@@ -1,0 +1,18 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Jaisingh",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
